@@ -13,3 +13,6 @@
 
 - Python
   python standard library
+
+- Icon
+  Font Awesome
